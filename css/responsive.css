@@ -1,0 +1,550 @@
+
+
+@media (max-width: 1899px) {
+    .navbar {
+        padding: 18px 0;
+    }
+    .navbar-brand {
+        display: block;
+        width: 70px;
+    }
+    .navbar-nav .nav-link {
+        font-size: 14px;
+    }
+    .navbar-nav {
+        gap: 18px;
+    }
+    .navbar-btns {
+        margin-left: 18px;
+        gap: 18px;
+    }
+    .navbar-btns .a {
+        font-size: 14px;
+    }
+    .btn {
+        padding: 8px 19px;
+        min-height: 48px;
+        font-size: 15px;
+    }
+
+    .hero__content .h1 {
+        font-size: 43px;
+        margin-bottom: 20px;
+    }
+    .hero__content {
+        height: 520px;
+        padding: 50px;
+        border-radius: 8px;
+    }
+    .hero-search_nav .nav li a {
+        font-size: 14px;
+        padding: 7px;
+        border-radius: 7px;
+        min-width: 83px;
+    }
+    .hero-search_nav .nav {
+        display: flex;
+        gap: 20px;
+        padding: 11px 20px;
+    }
+    .hero-search_nav {
+        border-radius: 7px 7px 0px 0px;
+    }
+    .hero-search-box_in .input {
+        width: 300px;
+        font-size: 14px;
+    }
+    .ht-label {
+        font-size: 14px;
+        margin-bottom: 4px;
+    }
+    .h-inp {
+        width: 120px;
+        font-size: 14px;
+    }
+    .h-inp-outer .icon {
+        font-size: 15px;
+        margin-right: 2px;
+    }
+    body {
+        font-size: 14px;
+    }
+    .hero-search-box_in .src-btn {
+        min-width: 120px;
+    }
+    .hero-search-box {
+        padding: 20px 40px;
+        border-radius: 0px 7px 7px 7px;
+    }
+
+
+    .h2 {
+        font-size: 40px;
+    }
+    .project-section {
+        padding: 35px 0;
+    }
+    .project-section__title {
+        margin-bottom: 32px;
+    }
+    .project_ttl h3 {
+        font-size: 27px;
+        margin-bottom: 11px;
+    }
+    .project_ttl p {
+        font-size: 19px;
+    }
+    .project__r2__lft .price {
+        font-size: 41px;
+        margin-bottom: 22px;
+    }
+    .btn-lg {
+        min-height: 60px;
+        font-size: 17px;
+        border-radius: 7px;
+    }
+    .project__r2__lft .btn {
+        min-width: 330px;
+    }
+    .project__r2__rt h4 {
+        font-size: 16px;
+        margin-bottom: 3px;
+    }
+    .project__r2__rt h4 i {
+        margin-right: 5px;
+    }
+    .project__r2__rt p {
+        font-size: 18px;
+    }
+    .project_ttl {
+        margin-bottom: 35px;
+    }
+    .project-single {
+        padding: 50px 30px 40px;
+        border-radius: 7px;
+    }
+    .projects-wrapper {
+        gap: 30px;
+    }
+
+    .service-section {
+        padding: 60px 0;
+    }
+    .sec-title {
+        margin-bottom: 35px;
+    }
+    .service-single__hrv .icon {
+        height: 90px;
+        margin-bottom: 10px;
+        width: 85px;
+    }
+    .service-single__hrv h4 {
+        font-size: 32px;
+    }
+    .service-single {
+        height: 270px;
+        border-radius: 7px;
+    }
+    .service-single__content h4 {
+        font-size: 32px;
+        margin-bottom: 12px;
+    }
+    .service-single__content p {
+        font-size: 14px;
+    }
+    .service-single__content {
+        padding: 20px 40px;
+    }
+    .services-row {
+        --bs-gutter-x: 17px;
+    }
+
+    .cta-content h4 {
+        font-size: 22px;
+        margin-bottom: 35px;
+    }
+    .cta-section {
+        padding: 25px 0;
+    }
+    .cta-project-post .input {
+        padding: 4px 23px;
+        font-size: 17px;
+    }
+    .cta-project-post {
+        width: 690px;
+        border-radius: 7px;
+    }
+    .follow-section {
+        margin: 60px 0 30px;
+    }
+
+    .follow-item .icon {
+        width: 60px;
+        margin-bottom: 6px;
+    }
+    .follow-item h2 {
+        font-size: 20px;
+    }
+
+
+    .footer-logo {
+        width: 70px;
+        margin-bottom: 20px;
+    }
+    .footer-logo-column p {
+        font-size: 14px;
+    }
+    .fs-menu li a {
+        font-size: 20px;
+    }
+    .fs-menu {
+        margin-top: 22px;
+        gap: 16px;
+    }
+    .footer-menu h4 {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+    .footer-menu ul li a {
+        font-size: 15px;
+        gap: 8px;
+    }
+    .footer-menu ul {
+        gap: 8px;
+    }
+    .footer-top-row {
+        padding: 40px 0 20px;
+    }
+    .copy-right {
+        font-size: 11px;
+    }
+    .footer-bottom {
+        padding: 20px 0;
+    }
+    .footer-logo-column {
+        padding-right: 20px;
+    }
+
+
+    .project-view-box {
+        border-radius: 7px;
+    }
+    .project-form {
+        padding: 23px 30px;
+        border-radius: 7px;
+    }
+    .input-x {
+        font-size: 16px;
+        padding: 15px 15px;
+        border-radius: 7px;
+    }
+    .input-x.big {
+        height: 145px;
+    }
+    .project-view-section {
+        padding: 60px 0;
+    }
+    .title-hero-box .h1 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .title-hero-box {
+        min-height: 160px;
+        padding: 25px 30px;
+        border-radius: 7px;
+    }
+
+
+    .project-views-txt h4 {
+        font-size: 22px;
+        margin-bottom: 12px;
+    }
+    .project-views-txt p {
+        font-size: 19.5px;
+    }
+    .project-views-txt {
+        padding: 0 0px;
+    }
+    .input-x-outer .chevron {
+        font-size: 18px;
+        right: 12px;
+    }
+
+    .project-section__title h4 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .project-listing-tr .column {
+        font-size: 14px;
+    }
+    .project-listing-table--1 .column-5 {
+        width: 100px;
+    }
+    .project-listing-tr {
+        padding: 22px 0;
+        gap: 12px;
+    }
+    .pricing-listing-table-outer {
+        padding: 17px 35px 20px;
+        border-radius: 7px;
+    }
+}
+
+
+@media (max-width: 1199px) {
+    .service-single__content {
+        padding: 12px 12px;
+    }
+
+    .footer-section__inner {
+        padding: 0 0%;
+    }
+
+    .hero__content {
+        height: 430px;
+        padding: 30px;
+    }
+    .hero-search-box_in .input {
+        width: 270px;
+    }
+
+
+
+}
+
+
+@media (max-width: 991px) {
+    .navbar-nav {
+        gap: 4px;
+    }
+    .navbar-nav {
+        padding: 15px 0 10px;
+    }
+    .navbar-btns {
+        padding-bottom: 10px;
+        flex-direction: column;
+        align-items: flex-start;
+        margin-left: 0;
+    }
+    .navbar-btns .a {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .project-view-box {
+        background: transparent;
+        box-shadow: none;
+        overflow: visible;
+    }
+    .project-view__content {
+        margin-bottom: 30px;
+        background: #FFF;
+        box-shadow: 12.708499908447266px 16.52104949951172px 38.1254997253418px 0px rgba(0, 0, 0, 0.15);
+    }
+
+    .project-listing-head {
+        display: none;
+    }
+    .project-listing-tr {
+        flex-wrap: wrap;
+    }
+    .project-listing-table--1 .column-1 {
+        width: calc(100% - 82px);
+        order: -100;
+    }
+    .project-listing-table--1 .column-2 {
+        width: 100%;
+    }
+    .project-listing-table--1 .column-3 {
+        width: auto;
+        margin-right: auto;
+    }
+    .project-listing-table--1 .column-4 {
+        width: auto;
+        flex-grow: 0;
+    }
+    .project-listing-table--1 .column-5 {
+        width: 70px;
+        order: -99;
+    }
+    .project-listing-table .location::before {
+        content: "location: ";
+        margin-right: 5px;
+    }
+    .project-listing-table .price::before {
+        content: "Price: ";
+        margin-right: 5px;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .hero__content .h1 {
+        font-size: 26px;
+        margin-bottom: 13px;
+    }
+    .hero__content {
+        height: 360px;
+        padding: 12px;
+        width: calc(100% + 24px);
+        margin-left: -12px;
+        border-radius: 0;
+    }
+    .hero-search-box_in {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    .hero-search-box_in .input {
+        padding: 5px 0;
+        width: 100%;
+        border-bottom: 1px solid #eee;
+    }
+    .hero-search-box {
+        width: 100%;
+        border-top-right-radius: 0;
+    }
+    .hero-search_nav {
+        width: 100%;
+    }
+    .hero-search-box {
+        padding: 20px 15px;
+    }
+
+    .h2 {
+        font-size: 24px;
+    }
+    .project_ttl h3 {
+        font-size: 18px;
+        margin-bottom: 9px;
+    }
+    .project_ttl p {
+        font-size: 15px;
+    }
+    .project-single {
+        padding: 18px 15px 20px;
+    }
+    .project__r2 {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .project__r2__lft .price {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    .btn {
+        padding: 6px 12px;
+        min-height: 40px;
+        font-size: 13px;
+    }
+    .btn-lg {
+        min-height: 50px;
+        font-size: 14px;
+    }
+    .project_ttl {
+        margin-bottom: 22px;
+    }
+    .project__r2__rt h4 {
+        font-size: 13px;
+    }
+    .project__r2__rt p {
+        font-size: 14px;
+    }
+
+    .cta-content h4 {
+        font-size: 18px;
+        margin-bottom: 25px;
+    }
+    .cta-project-post {
+        flex-direction: column;
+        width: 100%;
+        gap: 13px;
+        background: transparent;
+    }
+    .cta-project-post .input {
+        width: 100%;
+        height: 50px;
+        background: var(--gray, #F1F1F1);
+        border-radius: 8px;
+    }
+
+    .follow__row {
+        flex-wrap: wrap;
+    }
+    .follow-item.follow-inst {
+        width: 100%;
+        padding: 40px 0;
+    }
+
+    
+    .project__r2__lft .btn {
+        min-width: 220px;
+    }
+
+
+    .title-hero-box .h1 {
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .title-hero-box {
+        min-height: 120px;
+        padding: 15px 15px;
+        border-radius: 0;
+        width: calc(100% + 34px);
+        margin-left: -17px;
+    }
+    .project-view__content {
+        padding: 22px 15px 25px;
+    }
+    .project-form {
+        padding: 20px 20px;
+    }
+
+    .project-views-txt h4 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .project-views-txt p {
+        font-size: 16px;
+    }
+
+    .project-section__title h4 {
+        font-size: 17px;
+        margin-bottom: 10px
+    }
+}
+
+
+@media (max-width: 575px) {
+    .title-hero-box .h1 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .pricing-listing-table-outer {
+        padding: 10px 15px 10px;
+    }
+}
+
+
+@media (max-width: 370px) {
+    .hero-search_nav .nav li a {
+        min-width: 65px;
+    }
+    .hero-search_nav .nav {
+        gap: 15px;
+        padding: 11px 11px;
+    }
+    .hero__content .h1 {
+        font-size: 24px;
+    }
+
+    .h2 {
+        font-size: 20px;
+    }
+
+    .title-hero-box .h1 {
+        font-size: 22px;
+        line-height: 27px;
+    }
+}
