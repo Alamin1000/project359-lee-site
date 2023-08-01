@@ -82,12 +82,12 @@ p:last-child{
   width: 100%;
   overflow: hidden;
 }
-@media (max-width: 1899px) and (min-width: 1200px) {
+@media (max-width: 2999px) and (min-width: 1200px) {
   .container {
     max-width: 1140px;
   }
 }
-@media (min-width: 1900px) {
+@media (min-width: 3000px) {
   .container {
     max-width: 1625px;
   }
@@ -334,6 +334,14 @@ p:last-child{
   font-family: var(--poppins);
   font-weight: 700;
   color: #384652;
+  padding: 0 5px;
+  box-shadow: none !important;
+  border: none !important;
+  background: #fff;
+}
+.h-inp option {
+  padding: 10px;
+  background: #fff;
 }
 .hero-search-box_in .src-btn {
   min-width: 160px;
@@ -389,10 +397,10 @@ p:last-child{
   flex-direction: column;
 }
 .project-single {
-  padding: 70px 47px 57px;
-  border-radius: 10px;
-  background: #FFF;
-  box-shadow: 12.708499908447266px 16.52104949951172px 38.1254997253418px 0px rgba(0, 0, 0, 0.15);
+	padding: 45px 47px 42px;
+	border-radius: 10px;
+	background: #FFF;
+	box-shadow: 12.708499908447266px 16.52104949951172px 38.1254997253418px 0px rgba(0, 0, 0, 0.15);
 }
 .project_ttl {
   margin-bottom: 55px;
@@ -596,6 +604,7 @@ p:last-child{
 
 .follow__row {
   display: flex;
+  justify-content: center;
 }
 .follow-item {
   width: 50%;
@@ -617,6 +626,10 @@ p:last-child{
   font-size: 36.798px;
   font-style: normal;
   font-weight: 700;
+}
+.follow-item {
+  height: 330px;
+  flex-grow: 1;
 }
 .follow-item .img {
   height: 100%;

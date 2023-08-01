@@ -1,6 +1,6 @@
 
 
-@media (max-width: 1899px) {
+@media (max-width: 2999px) {
     .navbar {
         padding: 18px 0;
     }
@@ -120,7 +120,7 @@
         margin-bottom: 35px;
     }
     .project-single {
-        padding: 50px 30px 40px;
+        padding: 30px 30px 27px;
         border-radius: 7px;
     }
     .projects-wrapper {
@@ -289,6 +289,11 @@
         padding: 17px 35px 20px;
         border-radius: 7px;
     }
+
+
+    .follow-item {
+        height: auto;
+      }
 }
 
 
@@ -512,6 +517,8 @@
         font-size: 17px;
         margin-bottom: 10px
     }
+
+
 }
 
 
